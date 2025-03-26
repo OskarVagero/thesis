@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "This repository contains code for reproducing graphs in my PhD thesis"
+authors:
+- family-names: "Vågerö"
+  given-names: "Oskar"
+  orcid: "https://orcid.org/0000-0002-0806-0329"
+title: "Code and data for 'Socially inclusive energy transitions - Energy systems, models and justice'"
+version: 1.0
+date-released: 2025-03-26
+url: "https://github.com/OskarVagero/thesis"
